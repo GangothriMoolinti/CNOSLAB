@@ -1,10 +1,12 @@
 # Program file
 ![program file](FCFS_518.py)
 
-#Sample output
-![Smaple output](ExpectedOutput.png)
 
-#Executed output
+#ExpectedOutput
+![ExpectedOutput](ExpectedOutput.png)
+
+
+#ExecutedOutput
 ![Executed output](ExecutedOutput.png)
 
 
