@@ -2,12 +2,12 @@
 ![program file](FCFS_518.py)
 
 
-#ExpectedOutput
-![ExpectedOutput](ExpectedOutput.png)
+#Expected Output
+![Expected Output](Expected Output.png)
 
 
-#ExecutedOutput
-![Executed output](ExecutedOutput.png)
+#Executed Output
+![Executed Output](Executed Output.png)
 
 
 
