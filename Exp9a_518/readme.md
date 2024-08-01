@@ -3,11 +3,11 @@
 
 
 #Expected Output
-![Expected Output](Expected Output.png)
+![Expected Output](ExpectedOutput.png)
 
 
 #Executed Output
-![Executed Output](Executed Output.png)
+![Executed Output](ExecutedOutput.png)
 
 
 
