@@ -1,5 +1,5 @@
 # Program file
-![Program file](Dining Philosopher_518.py)
+![Dining Philosopher_518](Dining Philosopher_518.py)
 
 # Expected output
 ![ExpectedOutput](ExpectedOutput.png)
